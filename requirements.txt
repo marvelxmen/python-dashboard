@@ -1,5 +1,5 @@
-numpy==1.22.3
-pandas==1.4.2
-panel==1.2.1
-hvplot==0.8.4
-jupyter_bokeh==3.0.7
+numpy
+pandas
+panel
+hvplot
+jupyter_bokeh
