@@ -1,7 +1,8 @@
 # python-dashboard-panel
 ### Interactive visualization dashboard in Python with Panel
 
-This repo contains code for the portfolio project on my Youtube channel (https://www.youtube.com/watch?v=uhxiXOTKzfs&t=26s)
+This repo contains code from the portfolio project on her Youtube channel (https://www.youtube.com/watch?v=uhxiXOTKzfs&t=26s)
+I have modified the Notebook, the requirements, and added containerization.
 
 If you want to see all the dependencies for this project, please see requirements.txt file.
 
